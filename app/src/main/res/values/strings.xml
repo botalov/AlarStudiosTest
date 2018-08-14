@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AlarStudios</string>
+
+    <!-- Network -->
+    <string name="base_url">http://condor.alarstudios.com/test/</string>
+    <string name="error_status">error</string>
+    <string name="login_password_error">Incorrect login or password</string>
+    <string name="random_image_url">https://picsum.photos/100/100/?random</string>
+
+    <!-- Start Activity -->
+    <string name="login_str">Login</string>
+    <string name="password_str">Password</string>
+
+    <!-- Map Activity -->
+    <string name="id_title">Id:</string>
+    <string name="name_title">Name:</string>
+    <string name="country_title">Country:</string>
+    <string name="lat_title">Lat:</string>
+    <string name="lon_title">Lon:</string>
+
+</resources>
